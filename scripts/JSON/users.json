@@ -1,0 +1,1439 @@
+{
+ "users": [
+  {
+   "primaryEmail": "acalachan@modusagency.com",
+   "name": {
+    "givenName": "Drew",
+    "familyName": "Calachan",
+    "fullName": "Drew Calachan"
+   },
+   "relations": [
+    {
+     "value": "bfrost@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "6324706232",
+     "type": "work"
+    },
+    {
+     "value": "639337200961",
+     "type": "mobile"
+    }
+   ]
+  },
+  {
+   "primaryEmail": "aquiros@modusagency.com",
+   "name": {
+    "givenName": "Alberto",
+    "familyName": "Quirós",
+    "fullName": "Alberto Quirós"
+   },
+   "relations": [
+    {
+     "value": "jspeziale@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "+5491133433840",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECJS4praY3u_glQEiC3ZjYXJkX3Bob3RvKihiOGNjMTUyOTZmMmFkMDk5OTEzNjE1ODk5YmM2OTYxMWQ2OTZlOTM2MAH-_dRP612siOUn8I6rhcbswm3RBg"
+  },
+  {
+   "primaryEmail": "bbondarenko@modusagency.com",
+   "name": {
+    "givenName": "Boris",
+    "familyName": "Bondarenko",
+    "fullName": "Boris Bondarenko"
+   },
+   "relations": [
+    {
+     "value": "kvogel@modusagency.com",
+     "type": "manager"
+    },
+    {
+     "value": "bbraunstein@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "gpratt@modusagency.com",
+     "type": "assistant"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 116",
+     "type": "work"
+    },
+    {
+     "value": "718-909-8049",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABECLPugJLhlPWb3gEiC3ZjYXJkX3Bob3RvKihmY2E1Y2MyNzUzOTg1YjA1OTM0YmU0ZjZjY2I2NmYzM2ZmZWQ0ZWIxMAF378pi6oGo2uu2gGYWT0EznKLsdA"
+  },
+  {
+   "primaryEmail": "bbraunstein@modusagency.com",
+   "name": {
+    "givenName": "Brian",
+    "familyName": "Braunstein",
+    "fullName": "Brian Braunstein"
+   },
+   "relations": [
+    {
+     "value": "bbondarenko@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 115",
+     "type": "work"
+    },
+    {
+     "value": "718-702-3218",
+     "type": "mobile"
+    }
+   ]
+  },
+  {
+   "primaryEmail": "bfrost@modusagency.com",
+   "name": {
+    "givenName": "Becky",
+    "familyName": "Frost",
+    "fullName": "Becky Frost"
+   },
+   "relations": [
+    {
+     "value": "acalachan@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "blopez@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "iamores@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "kdiago@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "lvong@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "msodela@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "smavor@modusagency.com",
+     "type": "assistant"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABDCIa9scmeiee_IiILdmNhcmRfcGhvdG8qKDYwYjQ3MDMzMDI5ZmQ1ZWFhYmMxMjYxZDA4ZTUyNTY0MWI0NDA1YTMwARuSMAKThoLbAFFKU1dj6lKWeHhU"
+  },
+  {
+   "primaryEmail": "blopez@modusagency.com",
+   "name": {
+    "givenName": "Vhon",
+    "familyName": "Lopez",
+    "fullName": "Vhon Lopez"
+   },
+   "relations": [
+    {
+     "value": "bfrost@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "6324706232",
+     "type": "work"
+    },
+    {
+     "value": "639176204048",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABECMrRjPzWgLn20QEiC3ZjYXJkX3Bob3RvKigxMmJjMzVkMzJmYzYxYmEyMjRjYjgyOWM4NWNiMjNmYTUyM2M1OWRlMAEuBtKgstD94aq-_lTGDZjscXEn2g"
+  },
+  {
+   "primaryEmail": "bmatto@modusagency.com",
+   "name": {
+    "givenName": "Byron",
+    "familyName": "Matto",
+    "fullName": "Byron Matto"
+   },
+   "relations": [
+    {
+     "value": "rlevine@modusagency.com",
+     "type": "manager"
+    },
+    {
+     "value": "anoriega@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "credondo@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "iainley@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "kbaldwin@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "lfresno@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "sshin@modusagency.com",
+     "type": "assistant"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 160",
+     "type": "work"
+    },
+    {
+     "value": "646/416-2265",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABDCNWW2tOH09iqTCILdmNhcmRfcGhvdG8qKDc2ZjczZmJhNjVlNWU5YTc4ZDlkMThjMDAwZjFjMjMyODkxMjk1MzQwAVf_gqtbLWhtVSxDIqwHBj9czQsl"
+  },
+  {
+   "primaryEmail": "calendar_user@modusagency.com",
+   "name": {
+    "givenName": "Calendar",
+    "familyName": "User",
+    "fullName": "Calendar User"
+   }
+  },
+  {
+   "primaryEmail": "credondo@modusagency.com",
+   "name": {
+    "givenName": "Cesar",
+    "familyName": "Redondo",
+    "fullName": "Cesar Redondo"
+   },
+   "relations": [
+    {
+     "value": "bmatto@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 104",
+     "type": "work"
+    },
+    {
+     "value": "646/474-4903",
+     "type": "mobile"
+    }
+   ]
+  },
+  {
+   "primaryEmail": "dbebawy@modusagency.com",
+   "name": {
+    "givenName": "David",
+    "familyName": "Bebawy",
+    "fullName": "David Bebawy"
+   },
+   "relations": [
+    {
+     "value": "msleman@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 127",
+     "type": "work"
+    },
+    {
+     "value": "718/864-2961",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABDCKfvqICpirbqZSILdmNhcmRfcGhvdG8qKDNlN2M0NTYwNTI0NmMyMTRjYzg0NDI0ODc3OGUyYThiYjBkMWI3MjkwATx1GCueotB9TnGweYyF8jsh_ZSW"
+  },
+  {
+   "primaryEmail": "dgould@modusagency.com",
+   "name": {
+    "givenName": "Dave",
+    "familyName": "Gould",
+    "fullName": "Dave Gould"
+   },
+   "relations": [
+    {
+     "value": "mstineman@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 106",
+     "type": "work"
+    },
+    {
+     "value": "917/626-7849",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECMOR_YXm59ayrAEiC3ZjYXJkX3Bob3RvKig1ZTk3NmJlZDQxNGYxMjhlODg2ZGFjNDdlYjUxMDgwNGZhY2FiMGQxMAEJBMQaMdHA9HKEQV-kFHIFcWo72A"
+  },
+  {
+   "primaryEmail": "emuigai@modusagency.com",
+   "name": {
+    "givenName": "Elizabeth",
+    "familyName": "Muigai",
+    "fullName": "Elizabeth Muigai"
+   },
+   "relations": [
+    {
+     "value": "kvogel@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 130",
+     "type": "work"
+    },
+    {
+     "value": "205/261-9394",
+     "type": "mobile"
+    }
+   ]
+  },
+  {
+   "primaryEmail": "erubinstein@modusagency.com",
+   "name": {
+    "givenName": "Erica",
+    "familyName": "Rubinstein",
+    "fullName": "Erica Rubinstein"
+   },
+   "relations": [
+    {
+     "value": "kkulenych@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "212.871.2020 x321",
+     "type": "work"
+    },
+    {
+     "value": "347-581-2134",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABECKSWh9KE5ezKxgEiC3ZjYXJkX3Bob3RvKihkMGZkMWM3ZDYyZWQ4ZWZmNjMzNDdhOGY0OWNiOTE1ODhkNTA0YzI4MAGp4qtUiLwnHWyLzwHxOOEoGB92jg"
+  },
+  {
+   "primaryEmail": "general_admin@modusagency.com",
+   "name": {
+    "givenName": "Modus",
+    "familyName": "Administrator",
+    "fullName": "Modus Administrator"
+   },
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCJW67q_F8vfGXiILdmNhcmRfcGhvdG8qKDBhNTgyZjNhMjc4NmM1ZDAxZmRjODM2NzY0M2Q5YTgyZWE5MWI2YmIwAdalunRCG7f_ExIv8aK0njgGTmEq"
+  },
+  {
+   "primaryEmail": "gericksen@modusagency.com",
+   "name": {
+    "givenName": "Graham",
+    "familyName": "Ericksen",
+    "fullName": "Graham Ericksen"
+   },
+   "relations": [
+    {
+     "value": "wellis@modusagency.com",
+     "type": "assistant"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 255-6768 x 328",
+     "type": "work"
+    },
+    {
+     "value": "(973) 518-4393",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABECPztodGe7cybowEiC3ZjYXJkX3Bob3RvKigzMjI3MDVlZDk4ZDRiMzVjMzBmMmEwMGVmZmZkNjlkMjZhYjcxNWJkMAEoKt5k0doXzbpGpEBfSUbCd3JW2Q"
+  },
+  {
+   "primaryEmail": "gorsi@modusagency.com",
+   "name": {
+    "givenName": "Gustavo",
+    "familyName": "Orsi",
+    "fullName": "Gustavo Orsi"
+   },
+   "relations": [
+    {
+     "value": "mconstantine@modusagency.com",
+     "type": "manager"
+    }
+   ]
+  },
+  {
+   "primaryEmail": "gortega@modusagency.com",
+   "name": {
+    "givenName": "Glenda",
+    "familyName": "Ortega",
+    "fullName": "Glenda Ortega"
+   },
+   "relations": [
+    {
+     "value": "sdankas@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "+54 11 4833-6365",
+     "type": "work"
+    },
+    {
+     "value": "+54 9 11 3265-3552",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCOvR0-v8l_vhbCILdmNhcmRfcGhvdG8qKGU3YjVhMzlhNDdkZjE4MDRjYmNjNWI4OTQ1NDg2YmE1NGVlNWRkYmIwAc8d4DTPXtAln2tZZBA92tIH9RZb"
+  },
+  {
+   "primaryEmail": "gpratt@modusagency.com",
+   "name": {
+    "givenName": "Gregory",
+    "familyName": "Pratt",
+    "fullName": "Gregory Pratt"
+   },
+   "relations": [
+    {
+     "value": "bbondarenko@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 132",
+     "type": "work"
+    },
+    {
+     "value": "(646) 596-2997",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABECKzdrqCYxcWZ-AEiC3ZjYXJkX3Bob3RvKigxZDFiMDJhNmViMzdjNmI2OTc1ODdkNTc3MzExYzI1YWUzMmY5ZGQxMAHOie3HiJ-Axi4TK6BepULFMuuEDA"
+  },
+  {
+   "primaryEmail": "iainley@modusagency.com",
+   "name": {
+    "givenName": "Ian",
+    "familyName": "Ainley",
+    "fullName": "Ian Ainley"
+   },
+   "relations": [
+    {
+     "value": "bmatto@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 171",
+     "type": "work"
+    },
+    {
+     "value": "203/837-0996",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECOCsnvWR8Lf8jAEiC3ZjYXJkX3Bob3RvKig4NTZlYWI0ZDhiNmI2M2VhZDBhZWJjM2ExYjMyYjRhMDVmYjI4MzRlMAErvdM2e1wAY2KrkzWm2Fbf2Zr2nw"
+  },
+  {
+   "primaryEmail": "iamores@modusagency.com",
+   "name": {
+    "givenName": "Ivy",
+    "familyName": "Amores",
+    "fullName": "Ivy Amores"
+   },
+   "relations": [
+    {
+     "value": "bfrost@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "6324706232",
+     "type": "work"
+    },
+    {
+     "value": "639497947676",
+     "type": "mobile"
+    }
+   ]
+  },
+  {
+   "primaryEmail": "jerickson@modusagency.com",
+   "name": {
+    "givenName": "Jay",
+    "familyName": "Erickson",
+    "fullName": "Jay Erickson"
+   },
+   "relations": [
+    {
+     "value": "mstineman@modusagency.com",
+     "type": "assistant"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x143",
+     "type": "work"
+    },
+    {
+     "value": "917-627-3338",
+     "type": "mobile"
+    },
+    {
+     "value": "845-493-0590",
+     "type": "home"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABDCO662NbbmZH5ISILdmNhcmRfcGhvdG8qKGRmZGNiZWEzZDQyYzZlODc0ZjIxZjJiYzVmZjFkZmE4YzlkMWJlYmIwAX-qjXcfeA-OoXx5gVag1yKP5-P9"
+  },
+  {
+   "primaryEmail": "jhennelly@modusagency.com",
+   "name": {
+    "givenName": "Jill",
+    "familyName": "Hennelly",
+    "fullName": "Jill Hennelly"
+   },
+   "relations": [
+    {
+     "value": "mstineman@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 107",
+     "type": "work"
+    },
+    {
+     "value": "781/929-9544",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECLbW7vOwrLSFvgEiC3ZjYXJkX3Bob3RvKihiMzVmZWU2NmYzMGEzY2U3YmQ1ZjFiMjE4ZDNlOThmMTU1NDhiODk2MAGC0GxGCW-BUhuD16LiFeVoFxqP5g"
+  },
+  {
+   "primaryEmail": "jrothman@modusagency.com",
+   "name": {
+    "givenName": "Jade",
+    "familyName": "Rothman",
+    "fullName": "Jade Rothman"
+   },
+   "relations": [
+    {
+     "value": "mstineman@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 110",
+     "type": "work"
+    },
+    {
+     "value": "607-761-0719",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECKegscL2jvr_jwEiC3ZjYXJkX3Bob3RvKig3NmQ1NWM5M2IzZmU0MDY2ZjY5ZTZmOTA3MmJlNzFkYjgzZDhiNTVhMAFKt5pnSiTgsJ55W3oaGSDg3R3DIw"
+  },
+  {
+   "primaryEmail": "jspeziale@modusagency.com",
+   "name": {
+    "givenName": "Juan",
+    "familyName": "Speziale",
+    "fullName": "Juan Speziale"
+   },
+   "relations": [
+    {
+     "value": "msleman@modusagency.com",
+     "type": "manager"
+    },
+    {
+     "value": "aquiros@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "lcurzi@modusagency.com",
+     "type": "assistant"
+    }
+   ],
+   "phones": [
+    {
+     "value": "+54 11 4833-6365",
+     "type": "work"
+    },
+    {
+     "value": "+54 9 11 6190-2553",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABECL3dkcCz1d-ZhwEiC3ZjYXJkX3Bob3RvKigwYjM2NmRkZDBhZWJlNjA4Mjc3MTQ5MDk0NzQxNjc0ODJiNTBmYzIxMAH75XLqCf70G424V6btpEhbOt0CRg"
+  },
+  {
+   "primaryEmail": "kbaldwin@modusagency.com",
+   "name": {
+    "givenName": "Kate",
+    "familyName": "Baldwin",
+    "fullName": "Kate Baldwin"
+   },
+   "relations": [
+    {
+     "value": "bmatto@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 153",
+     "type": "work"
+    },
+    {
+     "value": "631/827-9343",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECNyVzsbf76mZzAEiC3ZjYXJkX3Bob3RvKihkMzUyYWQxNjA0NmNhZTM3M2E5YmFkZmRhMTE1ZDVmNWQyZjk2YjMwMAFwoCs6OUjoewbXYoAN1YHk6nHrBw"
+  },
+  {
+   "primaryEmail": "kdiago@modusagency.com",
+   "name": {
+    "givenName": "Kate",
+    "familyName": "Diago",
+    "fullName": "Kate Diago"
+   },
+   "relations": [
+    {
+     "value": "bfrost@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 165",
+     "type": "work"
+    },
+    {
+     "value": "631/766-0602",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABECLe8zuf5tJP3lQEiC3ZjYXJkX3Bob3RvKihkNjVhYjk1ZWU4NjM4M2FlZjkwZjk3YTkwMTI4YzM2NjllNmYxMjc5MAF817I7Vau5Ln3SM2-p7b8gSp7GIA"
+  },
+  {
+   "primaryEmail": "kgreen@modusagency.com",
+   "name": {
+    "givenName": "Kevin",
+    "familyName": "Green",
+    "fullName": "Kevin Green"
+   },
+   "relations": [
+    {
+     "value": "mstineman@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 172",
+     "type": "work"
+    },
+    {
+     "value": "781/883-6042",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABECNj79oXJl-DJyAEiC3ZjYXJkX3Bob3RvKihmZDMzYWEyMGQ1MmU2ZjJhODVhYTA0OTAzM2YxZmYwNDAyNDQ5ZDFhMAFt2554Wv7QNvZ9V4lee0ZYEmTD1A"
+  },
+  {
+   "primaryEmail": "kkulenych@modusagency.com",
+   "name": {
+    "givenName": "Kristen",
+    "familyName": "Kulenych",
+    "fullName": "Kristen Kulenych"
+   },
+   "relations": [
+    {
+     "value": "erubinstein@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "ljuusola@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "tfoley@modusagency.com",
+     "type": "assistant"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 255-3736 x 301",
+     "type": "work"
+    },
+    {
+     "value": "(646) 486-9954",
+     "type": "mobile"
+    }
+   ]
+  },
+  {
+   "primaryEmail": "kparker@modusagency.com",
+   "name": {
+    "givenName": "Kate",
+    "familyName": "Parker",
+    "fullName": "Kate Parker"
+   },
+   "relations": [
+    {
+     "value": "mstineman@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 113",
+     "type": "work"
+    },
+    {
+     "value": "813/495-6515",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECPKclbiMnoT86AEiC3ZjYXJkX3Bob3RvKigwZDUzOWRiM2FmN2EzZWFlZjhiNmRmZjQyMzI0MTFlNTU0MjgxNDI5MAHFCWEoBhI4Dd3com1psirAFKoOWg"
+  },
+  {
+   "primaryEmail": "kvogel@modusagency.com",
+   "name": {
+    "givenName": "Kristina",
+    "familyName": "Vogel-An",
+    "fullName": "Kristina Vogel-An"
+   },
+   "relations": [
+    {
+     "value": "bbondarenko@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "emuigai@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "sdankas@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "sfitzsimonds@modusagency.com",
+     "type": "assistant"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 142",
+     "type": "work"
+    },
+    {
+     "value": "917-797-9504",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECLSa_ZndjNSR1AEiC3ZjYXJkX3Bob3RvKihmNDYyYzcyZjYzZDJmYjExODIwNmVjYmYyMGQ1M2M0Zjg5OTkxZmI5MAF3zRC327tDDLO_LcbshdANA7H2RA"
+  },
+  {
+   "primaryEmail": "lcurzi@modusagency.com",
+   "name": {
+    "givenName": "Leandro",
+    "familyName": "Curzi",
+    "fullName": "Leandro Curzi"
+   },
+   "relations": [
+    {
+     "value": "jspeziale@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "+54 11 4833-6365",
+     "type": "work"
+    },
+    {
+     "value": "+54 9 11 3650-1621",
+     "type": "mobile"
+    }
+   ]
+  },
+  {
+   "primaryEmail": "lfresno@modusagency.com",
+   "name": {
+    "givenName": "Lucia",
+    "familyName": "Fresno",
+    "fullName": "Lucia Fresno"
+   },
+   "relations": [
+    {
+     "value": "bmatto@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABECKOl8qa-89Lj-wEiC3ZjYXJkX3Bob3RvKig5YTVlMjNmNmEwZTNjMDE1MmUxZTQyY2U2OWIwYzg2OTk5YmRmMTNhMAGToPhO66CZ_tQbZAyTB5fEd2_Jrg"
+  },
+  {
+   "primaryEmail": "ljuusola@modusagency.com",
+   "name": {
+    "givenName": "Liz",
+    "familyName": "Juusola",
+    "fullName": "Liz Juusola"
+   },
+   "relations": [
+    {
+     "value": "kkulenych@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "212.871.2020 x426",
+     "type": "work"
+    },
+    {
+     "value": "781-422-1009",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECLCHpMb-3dvLswEiC3ZjYXJkX3Bob3RvKig3MmRiYTc1YjJjODJmNWZjN2Y3NTJhMTU4YWY1MTAyY2Y2ZWE3YzZkMAEa8JITPjqj_iGQajTgZ9WWGOXYqA"
+  },
+  {
+   "primaryEmail": "lvong@modusagency.com",
+   "name": {
+    "givenName": "Vianca",
+    "familyName": "Ong",
+    "fullName": "Vianca Ong"
+   },
+   "relations": [
+    {
+     "value": "bfrost@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "6324706232",
+     "type": "work"
+    },
+    {
+     "value": "639175164591",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABDCMGu66m9vLOSVSILdmNhcmRfcGhvdG8qKGU4MWFkNWFjYjU5MzA5ZjU4ZjViMTUyNjE5Nzk3YjEwMmUyZjkzNGMwAThTMYiu0Q5P7LZtz1Z0WZ9eam5L"
+  },
+  {
+   "primaryEmail": "mconstantine@modusagency.com",
+   "name": {
+    "givenName": "Martin",
+    "familyName": "Constantine",
+    "fullName": "Martin Constantine"
+   },
+   "relations": [
+    {
+     "value": "msleman@modusagency.com",
+     "type": "manager"
+    },
+    {
+     "value": "gorsi@modusagency.com",
+     "type": "assistant"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 102",
+     "type": "work"
+    },
+    {
+     "value": "732/207-6591",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECOep-b-88eGVwAEiC3ZjYXJkX3Bob3RvKig1YWY0ZjUwNGQ3MTAzOWEyMWJhZDFjNzBjNjAyYWZjN2Y5ZDc2YmNhMAEGW3vfudZ7GNWywCfzRIh2PkDuyg"
+  },
+  {
+   "primaryEmail": "mgill@modusagency.com",
+   "name": {
+    "givenName": "Michael",
+    "familyName": "Gill",
+    "fullName": "Michael Gill"
+   },
+   "relations": [
+    {
+     "value": "msleman@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 124",
+     "type": "work"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABECJ3xz-qL05WdyQEiC3ZjYXJkX3Bob3RvKig0MjFjMzZlODA2YTliYmNmYWQ2NzgyM2FiZWEwNDQwYmMzNWEyZmFkMAFyBvC7Qco403yeLI6j8WfYlUIwiQ"
+  },
+  {
+   "primaryEmail": "msamawil@modusagency.com",
+   "name": {
+    "givenName": "Miro",
+    "familyName": "Samawil",
+    "fullName": "Miro Samawil"
+   },
+   "relations": [
+    {
+     "value": "msleman@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 122",
+     "type": "work"
+    },
+    {
+     "value": "201-918-8289",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABECIzHnPWvi5SdgQEiC3ZjYXJkX3Bob3RvKig4NDI1NjcwNzA1YzdhMmFlOTkxMzJkMGRiMDRkOTQzZjgyMjU5ZjI1MAGds8KrLrez-H-Ymrntd8vVoRSbIA"
+  },
+  {
+   "primaryEmail": "msleman@modusagency.com",
+   "name": {
+    "givenName": "Michael",
+    "familyName": "Sleman",
+    "fullName": "Michael Sleman"
+   },
+   "relations": [
+    {
+     "value": "rlevine@modusagency.com",
+     "type": "manager"
+    },
+    {
+     "value": "dbebawy@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "jspeziale@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "mconstantine@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "mgill@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "msamawil@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "mudit@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "oauber@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "rsena@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "syacoub@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "wgerges@modusagency.com",
+     "type": "assistant"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 140",
+     "type": "work"
+    },
+    {
+     "value": "732/791-2619",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECNec1rTg2Ye7lQEiC3ZjYXJkX3Bob3RvKihhY2FlMDkxY2U3OTBlYzM1NzM4MzVmZTRjZGU1ODI3NjdkYjUwNjQ1MAG7Rxqc7rHaT7EcxS2XOouYpHOpwg"
+  },
+  {
+   "primaryEmail": "msodela@modusagency.com",
+   "name": {
+    "givenName": "Anne",
+    "familyName": "Sodela",
+    "fullName": "Anne Sodela"
+   },
+   "relations": [
+    {
+     "value": "bfrost@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "6324706232",
+     "type": "work"
+    },
+    {
+     "value": "639063400364",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCNWmgYb2iKr_HSILdmNhcmRfcGhvdG8qKGZjMzdmN2M5MjIyOTExYmU5NDNjNDZiODkzODY2OWVmMWFmMGY3MzYwAQvUwOnOjo4DFsiL26sbvFGfvv1q"
+  },
+  {
+   "primaryEmail": "mstineman@modusagency.com",
+   "name": {
+    "givenName": "Michael",
+    "familyName": "Stineman",
+    "fullName": "Michael Stineman"
+   },
+   "relations": [
+    {
+     "value": "jerickson@modusagency.com",
+     "type": "manager"
+    },
+    {
+     "value": "dgould@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "jhennelly@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "jrothman@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "kgreen@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "kparker@modusagency.com",
+     "type": "assistant"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 111",
+     "type": "work"
+    },
+    {
+     "value": "917-685-7935",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCPaksfaw1f2wVyILdmNhcmRfcGhvdG8qKGNkNzkyOWZhMWQzNGVmY2FhMzA4MTA1MTU0YTUyYjY0MTBhY2Y1YjEwAfcU-6bn6hhfn5-mwP2HvthLsP8f"
+  },
+  {
+   "primaryEmail": "mudit@modusagency.com",
+   "name": {
+    "givenName": "Mark",
+    "familyName": "Udit",
+    "fullName": "Mark Udit"
+   },
+   "relations": [
+    {
+     "value": "msleman@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 121",
+     "type": "work"
+    },
+    {
+     "value": "(347) 393-9276",
+     "type": "mobile"
+    }
+   ]
+  },
+  {
+   "primaryEmail": "oauber@modusagency.com",
+   "name": {
+    "givenName": "Olivier",
+    "familyName": "Auber",
+    "fullName": "Olivier Auber"
+   },
+   "relations": [
+    {
+     "value": "msleman@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 149",
+     "type": "work"
+    },
+    {
+     "value": "347/282-9405",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCJb4_OzXla3-cSILdmNhcmRfcGhvdG8qKDIxYWI0Mjc1OTYwMjYxMDdjNmEwOTdhMDlkYzMyNTdlY2YxYmYwZDIwAe7kYgdZwiV6csC3EA6O4wDj-4Y3"
+  },
+  {
+   "primaryEmail": "rlevine@modusagency.com",
+   "name": {
+    "givenName": "Richard",
+    "familyName": "Levine",
+    "fullName": "Richard Levine"
+   },
+   "relations": [
+    {
+     "value": "bmatto@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "msleman@modusagency.com",
+     "type": "assistant"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 139",
+     "type": "work"
+    },
+    {
+     "value": "9177168362",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABECIygldDwm46BnwEiC3ZjYXJkX3Bob3RvKihiMzQ2NTE4NWZkZTViOGZhOWYxYjFiYjY2ZTU5ZTFhY2VjYjNiNmRhMAGuSL5CTwxdHPNQWpOZfxKilRLyIw"
+  },
+  {
+   "primaryEmail": "rsena@modusagency.com",
+   "name": {
+    "givenName": "Monn",
+    "familyName": "Sena",
+    "fullName": "Monn Sena"
+   },
+   "relations": [
+    {
+     "value": "msleman@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "6324706232",
+     "type": "work"
+    },
+    {
+     "value": "639283105311",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECKma34GprqGw7gEiC3ZjYXJkX3Bob3RvKig5NTBhYjdmOGM4Y2E2NGNmOWM1ZjhhMzliMDY5Zjk1YjVjYmVhNDBlMAGG5jeuDuhYRyRy9KNYcj44cmXNiQ"
+  },
+  {
+   "primaryEmail": "sdankas@modusagency.com",
+   "name": {
+    "givenName": "Sally",
+    "familyName": "Dankas",
+    "fullName": "Sally Dankas"
+   },
+   "relations": [
+    {
+     "value": "kvogel@modusagency.com",
+     "type": "manager"
+    },
+    {
+     "value": "gortega@modusagency.com",
+     "type": "assistant"
+    },
+    {
+     "value": "svergel@modusagency.com",
+     "type": "assistant"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 101",
+     "type": "work"
+    },
+    {
+     "value": "917-969-9326",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABECN3Ku6yA-eyO5gEiC3ZjYXJkX3Bob3RvKig4NjRhNmU5NjFlZDg0MTAxZWE3OGIyZDJhZTZmNTRiMGI0MzkxODE4MAHqDXi2CNRejLwccCZsQyTxwYn5kQ"
+  },
+  {
+   "primaryEmail": "sfitzsimonds@modusagency.com",
+   "name": {
+    "givenName": "Sonny",
+    "familyName": "Fitzsimonds",
+    "fullName": "Sonny Fitzsimonds"
+   },
+   "relations": [
+    {
+     "value": "kvogel@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "212.871.2020 x327",
+     "type": "work"
+    },
+    {
+     "value": "718-623-8145",
+     "type": "mobile"
+    }
+   ]
+  },
+  {
+   "primaryEmail": "smavor@modusagency.com",
+   "name": {
+    "givenName": "Smadar",
+    "familyName": "Mavor",
+    "fullName": "Smadar Mavor"
+   },
+   "relations": [
+    {
+     "value": "bfrost@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "646/468-0290",
+     "type": "mobile"
+    },
+    {
+     "value": "(212) 731-4964",
+     "type": "work"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCP_vsLHZmbj5ESILdmNhcmRfcGhvdG8qKDg1ZGY0N2UwYTkzNjNlZjI4NjU3MThmOTRkZDYxNmI2NmU1YTNiZGMwAZ5S3mxDFC_zO_XDWDleLy46qmea"
+  },
+  {
+   "primaryEmail": "smcdonald@modusagency.com",
+   "name": {
+    "givenName": "Scott",
+    "familyName": "McDonald",
+    "fullName": "Scott McDonald"
+   },
+   "phones": [
+    {
+     "value": "(212) 255-6768 x 302",
+     "type": "work"
+    },
+    {
+     "value": "(917) 244-8290",
+     "type": "mobile"
+    }
+   ]
+  },
+  {
+   "primaryEmail": "sshin@modusagency.com",
+   "name": {
+    "givenName": "Seung-Yun",
+    "familyName": "Shin",
+    "fullName": "Seung-Yun Shin"
+   },
+   "relations": [
+    {
+     "value": "bmatto@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 120",
+     "type": "work"
+    },
+    {
+     "value": "620/481-1073",
+     "type": "mobile"
+    }
+   ]
+  },
+  {
+   "primaryEmail": "svergel@modusagency.com",
+   "name": {
+    "givenName": "Shirley",
+    "familyName": "Vergel de Dios",
+    "fullName": "Shirley Vergel de Dios"
+   },
+   "relations": [
+    {
+     "value": "sdankas@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "6324706232",
+     "type": "work"
+    },
+    {
+     "value": "639053229600",
+     "type": "mobile"
+    }
+   ]
+  },
+  {
+   "primaryEmail": "syacoub@modusagency.com",
+   "name": {
+    "givenName": "Steve",
+    "familyName": "Yacoub",
+    "fullName": "Steve Yacoub"
+   },
+   "relations": [
+    {
+     "value": "msleman@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 157",
+     "type": "work"
+    },
+    {
+     "value": "973/818-6924",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABECOmn1ZyRzLikvgEiC3ZjYXJkX3Bob3RvKihmOGU1Njc4MGVmNzk0ODE2NjdhZWMxZGY0NjkxZTdhN2MxY2I2NDBmMAGSRMOI8_hxDI_otpBUo5c1XhR00w"
+  },
+  {
+   "primaryEmail": "tfoley@modusagency.com",
+   "name": {
+    "givenName": "Tom",
+    "familyName": "Foley",
+    "fullName": "Tom Foley"
+   },
+   "relations": [
+    {
+     "value": "kkulenych@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "212.871.2020 x340",
+     "type": "work"
+    },
+    {
+     "value": "646-584-3193",
+     "type": "mobile"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABDCNS1kKChj-G5LSILdmNhcmRfcGhvdG8qKGZhMGU0ZjgwM2IzMWQ5YzEyZjE5ZWFmNDQ4MDVlYjE0MjMwNjc1ODEwAWD5zl9yR37sxzcoDZqoRrjhwmRh"
+  },
+  {
+   "primaryEmail": "tsayama@modusagency.com",
+   "name": {
+    "givenName": "Tae",
+    "familyName": "Sayama",
+    "fullName": "Tae Sayama"
+   },
+   "phones": [
+    {
+     "value": "212-871-2020 x326",
+     "type": "work"
+    },
+    {
+     "value": "646-301-1350",
+     "type": "mobile"
+    }
+   ]
+  },
+  {
+   "primaryEmail": "wellis@modusagency.com",
+   "name": {
+    "givenName": "William",
+    "familyName": "Ellis",
+    "fullName": "William Ellis"
+   },
+   "relations": [
+    {
+     "value": "gericksen@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 126",
+     "type": "work"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCKyBpP6qlsHvSSILdmNhcmRfcGhvdG8qKDgzM2UwN2Q4MGIzODU3NzM1YTQxYjE5M2I5MWYyM2QzZTlkNjg4YWEwAYhkg1bi3TgrQGKSa4HCNPUXc0GR"
+  },
+  {
+   "primaryEmail": "wgerges@modusagency.com",
+   "name": {
+    "givenName": "Wesam",
+    "familyName": "Gerges",
+    "fullName": "Wesam Gerges"
+   },
+   "relations": [
+    {
+     "value": "msleman@modusagency.com",
+     "type": "manager"
+    }
+   ],
+   "phones": [
+    {
+     "value": "(212) 871-2020 x 125",
+     "type": "work"
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCLC1g5ilrKGyAiILdmNhcmRfcGhvdG8qKDMyMzA0ZDU5OWQ3YmVjMjE3ZGI2N2FkMGYwOGMwMWQ4NDlkNTQ2Y2MwAfoNHN6tpMQRyoRm-MVjmGGL7cf6"
+  }
+ ]
+}
+
